@@ -1,0 +1,3 @@
+[submodule "GLM_workshop"]
+	path = GLM_workshop
+	url = https://github.com/robertladwig/GLM_workshop
