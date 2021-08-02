@@ -4,7 +4,7 @@
 
 :busts_in_silhouette: Annette Janssen, Manqi Chang, Austin Delany, Robert Ladwig
 :computer: [Material](https://github.com/robertladwig/SIL21_SC07)  
-:email: [Questions about PCLake?](annette.janssen@wur.nl), [Questions about GLM?](mailto:rladwig2@wisc.edu)
+:email: [Questions about PCLake?](mailto:annette.janssen@wur.nl), [Questions about GLM?](mailto:rladwig2@wisc.edu)
 :teacher: [Introduction slides and GLM-AED2](https://docs.google.com/presentation/d/1zqoOMVjak10cjrNXVYTRbMz5clcjO13f2dh_fM475v8/edit?usp=sharing), [PCLake slides](https://docs.google.com/presentation/d/1L7YfoevXEjjw8QKtXZt4gzbZLOtHOVj21FuAwA_gEf8/edit?usp=sharing)
 
 -----
@@ -13,15 +13,12 @@
 
 Aquatic ecosystem models are representations of real-world processes in aquatic ecosystems. These models provide the opportunity to explore scientific and engineering ideas or scenarios, and increase our scientific understanding of aquatic systems. Model simulations can also be used as experiments that are not possible to field-test for physical, logistical, political or financial reasons.
 In this short course, we will provide a general introduction about numerical modeling. To illustrate numerical modelling we will present two lake ecosystem models with different methodological approaches: the one-dimensional ecosystem model PCLake and the coupled vertical one-dimensional hydrodynamic-ecological model GLM-AED2.
+
 The aim of this course is to give a general introduction about numerical modeling of aquatic ecosystems. In the introduction, we will focus on modeling basics (mathematical description of hydrodynamics and ecological processes, features of both models). Afterwards, we will split the group into two groups that work on hands-on exercises with PCLake or GLM-AED2, respectively.
 
 ## What will this workshop material cover?
-
-  - Running GLM in R
-  - Manipulating the configuration files
-  - Visualising the results
-  - Calibrating water temp. and oxygen parameters
-  - Checking your phytoplankton
+  - Introduction: to process-based modeling intended for all skill levels and background
+  - Overview and hands-on coding with state-of-the-art models: vertical 1D hydrodynamic-water quality model (GLM-AED2) or aquatic ecosystem and food web model (PCLake)
 
 ## Prerequisites
 
