@@ -1,5 +1,5 @@
 # 35th Congress of the International Society of Limnology: SC-07 Aquatic Ecosystem Modeling (PCLake and GLM-AED2)
-<a href="url"><img src="sil21.png" align="right" height="50" width="50" ></a>
+<a href="url"><img src="sil21.png" align="right" height="75" width="125" ></a>
 -----
 
 :busts_in_silhouette: Annette Janssen, Manqi Chang, Austin Delany, Robert Ladwig
