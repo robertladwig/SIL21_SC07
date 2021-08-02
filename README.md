@@ -25,7 +25,8 @@ The aim of this course is to give a general introduction about numerical modelin
 ### PCLake
 For the hands-on exercises, we kindly ask you to bring your own computer with the following prerequisites: Windows and Microsoft Excel. Moreover, we ask you to install the software before the course. We will send out additional specific instructions before the workshop.
 
-#### GLM-AED2
+### GLM-AED2
+You find all material here: [GLM_workshop repository](https://github.com/robertladwig/GLM_workshop)
 
 #### 1. Use Docker
    To be sure that all the examples will *work* during the workshop, you can use a [container](https://hub.docker.com/r/hydrobert/glm-workshop) of all the material. I'll quote the Docker website here:
