@@ -23,7 +23,7 @@ The aim of this course is to give a general introduction about numerical modelin
 ## Prerequisites
 
 ### PCLake
-For the hands-on exercises, we kindly ask you to bring your own computer with the following prerequisites: Windows and Microsoft Excel. Moreover, we ask you to install the software before the course. We will send out additional specific instructions before the workshop.
+For the hands-on exercises, we kindly ask you to bring your own computer with the following prerequisites: Windows and Microsoft Excel. Moreover, we ask you to install the software before the course. For that you can go to the folder SIL21_SC07/PCLake_files/PreparationDocuments_PCLake/Install_PCLake_and_Rtools.pdf to read the instructions. Also we ask you to read the articles in the folder SIL21_SC07/PCLake_files/PreparationDocuments_PCLake/ as preparation for the PCLake demonstration.
 
 ### GLM-AED2
 You find all material here: [GLM_workshop repository](https://github.com/robertladwig/GLM_workshop)
