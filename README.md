@@ -80,7 +80,7 @@ You find all material here: [GLM_workshop repository](https://github.com/robertl
 
 #### 2. Use Github and your local R setup
    Alternatively, you can clone or download files from this [Github repository](https://github.com/robertladwig/GLM_workshop) (click the green "Code" button and select the "Clone" or "Download ZIP" option).
-  You’ll need R (version >= 3.5), preferably a GUI of your choice (e.g., Rstudio) and these packages:
+  You’ll need R (version >= 4.x), preferably a GUI of your choice (e.g., Rstudio) and these packages:
   ```
   require(devtools)
   devtools::install_github("robertladwig/GLM3r", ref = "v3.1.1")
